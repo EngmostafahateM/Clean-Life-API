@@ -53,33 +53,7 @@ Clean Life API is a scalable backend solution that:
 - Support OAuth for third-party logins.
 - Add API rate limiting for enhanced security.
 
----
-
-## 📸 Screenshots
-
-*Add screenshots of API responses (e.g., Postman) or architecture diagrams here.*
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Whether you're a developer or API enthusiast, feel free to open issues, suggest features, or submit PRs.
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/YourFeature`).
-3. Commit changes (`git commit -m "Add YourFeature"`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a Pull Request.
-
----
-
-## 📩 Contact
-
-- **Developer:** [Your Name]
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-
----
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is not open source and Unavailable under the [MIT License](LICENSE).
